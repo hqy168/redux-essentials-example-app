@@ -15,6 +15,9 @@ function App() {
               <>
                 <PostsList />
               </>
+              <>
+                <PostsList />
+              </>
             }
           ></Route>
         </Routes>
